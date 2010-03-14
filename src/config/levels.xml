@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levels>
+    
+    <level>
+        <nodes>12</nodes>
+        <xDivs>5</xDivs>
+        <yDivs>2</yDivs>
+        <width>1000</width>
+        <height>700</height>
+        <itemBank>
+            <item>wasp</item>
+            <item>star</item>
+            <item>cockroach</item>
+            <item>star</item>
+            <item>star</item>
+            <item>stag</item>
+            <item>star</item>
+            <item>spider01</item>
+            <item>spider02</item>
+            <item>star</item>
+            <item>wasp</item>
+            <item>star</item>
+            <item>cockroach</item>
+            <item>star</item>
+            <item>star</item>
+            <item>stag</item>
+            <item>star</item>
+            <item>spider01</item>
+            <item>spider02</item>
+            <item>star</item>
+        </itemBank>
+    </level>
+    
+</levels>
